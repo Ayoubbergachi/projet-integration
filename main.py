@@ -3,9 +3,9 @@ import psutil
 import time
 
 # Configuration SSH
-ip = "IP_DU_PC2"  # Remplacer par l'IP de la machine distante
-username = "ton_utilisateur"
-password = "mot_de_passe"
+ip = "198.168.137.1"  # Remplacer par l'IP de la machine distante
+username = "ayoub"
+password = "ayoub1920"
 
 # Initialisation du client SSH
 client = paramiko.SSHClient()
